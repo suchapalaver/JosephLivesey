@@ -11,9 +11,9 @@ When I finished my PhD I wanted to try something different. A friend suggested t
 
 I only read CBEAMS's ["How to Write a Git Commit Message"](https://cbea.ms/git-commit/) for the first time around Feb/March 2022!    
 
-[`krust`](https://github.com/suchapalaver/krust) and [`grusterylist`](https://github.com/suchapalaver/grusterylist) are my first two programs in Rust--both have a ton that could be done--and the best places to look to see where I'm at in my learning.     
+[`krust`](https://github.com/suchapalaver/krust) and [`grusterylist`](https://github.com/suchapalaver/grusterylist) are my first two programs in Rust that I'm continuing to work on.     
 
-My bioinformatician friend Erik who mentored me into starting to code suggested learning to write a k-mer counter as a good first project to learn Python. [`fastas2kmers`](https://github.com/suchapalaver/fastas2kmers) is that very rough first attempt. [`krust`](https://github.com/suchapalaver/krust) was the first program I wrote in Rust, allowing me to learn to use [`rayon`](https://crates.io/crates/rayon) to count k-mers in parallel.   
+My bioinformatician friend Erik who mentored me into starting to code suggested learning to write a k-mer counter as a good first project to learn Python. [`fastas2kmers`](https://github.com/suchapalaver/fastas2kmers) is that very rough first attempt. [`krust`](https://github.com/suchapalaver/krust) was the first program I wrote in Rust, using [`rayon`](https://crates.io/crates/rayon) to count k-mers in parallel.   
 
 My wife and I use [`grusterylist`](https://github.com/suchapalaver/grusterylist) every week to save time on putting our shopping lists together. It seemed like a boring idea at first but it gave me the chance to create my own data types, figure out how to use the Rust crates [`clap`](https://crates.io/crates/clap) and [`serde`](https://crates.io/crates/serde) for the first time, and have a go at customized error handling. I don't think there are many beginner hobby project examples in Rust out there.
 
@@ -25,7 +25,7 @@ Andriy Portnov. [“Ukraine’s ‘Far East’: On the Effects and Genealogy of 
 
 ### some reading and writing
 
-Livesey, J., 2021. Rule the East: Chinese-Russian Encounters on the Frontiers of Capital in Contemporary Vladivostok ([Doctoral dissertation](https://www.proquest.com/openview/c30e921af78cd93167cf8e049137a7b2/1?pq-origsite=gscholar&cbl=18750&diss=y), New York University).    
+Livesey, Joseph, 2021. Rule the East: Chinese-Russian Encounters on the Frontiers of Capital in Contemporary Vladivostok ([Doctoral dissertation](https://www.proquest.com/openview/c30e921af78cd93167cf8e049137a7b2/1?pq-origsite=gscholar&cbl=18750&diss=y), New York University).    
 
 Livesey, Joseph. “[Review of Fatal Assistance](https://doi.org/10.1111/var.12054). Directed by Raoul Peck, 2013, 99 Minutes, Color. Distributed by Velvet Film, 36 Rue d’Enghien 75010, Paris, France, Http://Www.Velvet-Film.Com.” Visual Anthropology Review 31, no. 1 (May 2015): 115–17.
 
