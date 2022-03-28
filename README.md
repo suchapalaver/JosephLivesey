@@ -11,11 +11,11 @@ When I finished my PhD I wanted to try something different. A friend suggested t
 
 I only read CBEAMS's ["How to Write a Git Commit Message"](https://cbea.ms/git-commit/) for the first time around Feb/March 2022!    
 
-`krust` and `grusterylist` are my first two programs in Rust--both have a ton that could be done--and the best places to look to see where I'm at in my learning.     
+[`krust`](https://github.com/suchapalaver/krust) and [`grusterylist`](https://github.com/suchapalaver/grusterylist) are my first two programs in Rust--both have a ton that could be done--and the best places to look to see where I'm at in my learning.     
 
-My bioinformatician friend Erik who mentored me into starting to code suggested learning to write a k-mer counter as a good first project to learn Python. `fastas2kmers` is that very rough first attempt. `krust` was the first program I wrote in Rust, allowing me to learn to use `rayon` to count k-mers in parallel.   
+My bioinformatician friend Erik who mentored me into starting to code suggested learning to write a k-mer counter as a good first project to learn Python. [`fastas2kmers`](https://github.com/suchapalaver/fastas2kmers) is that very rough first attempt. [`krust`](https://github.com/suchapalaver/krust) was the first program I wrote in Rust, allowing me to learn to use [`rayon`](https://crates.io/crates/rayon) to count k-mers in parallel.   
 
-My wife and I use `grusterylist` every week to save time on putting our shopping lists together. It seemed like a boring idea at first but it gave me the chance to create my own data types, figure out how to use the Rust crates `clap` and `serde` for the first time, and have a go at customized error handling. I don't think there are many beginner hobby project examples in Rust out there.
+My wife and I use [`grusterylist`](https://github.com/suchapalaver/grusterylist) every week to save time on putting our shopping lists together. It seemed like a boring idea at first but it gave me the chance to create my own data types, figure out how to use the Rust crates [`clap`](https://crates.io/crates/clap) and [`serde`](https://crates.io/crates/serde) for the first time, and have a go at customized error handling. I don't think there are many beginner hobby project examples in Rust out there.
 
 ### some translating
 
