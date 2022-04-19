@@ -1,7 +1,7 @@
 # JosephLivesey
 ## About me    
 
-I recently completed my PhD in anthropology, a culmination of years learning about and living in China, Russia, and Ukraine. Now, while continuing to think about people and our lives "anthropologically," I want to pursue a career allowing me to continue to learn programming languages.    
+I recently completed my PhD in anthropology, a culmination of years learning about and living in China, Russia, and Ukraine. Now, while continuing to be inspired by those experieces and training, I want to pursue a career allowing me to continue to learn programming languages.    
 
 ### programming    
 
