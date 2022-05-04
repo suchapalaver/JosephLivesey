@@ -9,7 +9,9 @@ When I finished my PhD I wanted to try something different. A friend suggested t
 
 ### git    
 
-I only read CBEAMS's ["How to Write a Git Commit Message"](https://cbea.ms/git-commit/) for the first time around Feb/March 2022!    
+I only read CBEAMS's ["How to Write a Git Commit Message"](https://cbea.ms/git-commit/) for the first time around Feb/March 2022!   
+
+Lately, in my [`newsletter`](https://github.com/suchapalaver/newsletter) repository I've been meticulously working through [Luca Palmieri](https://github.com/LukeMathWalker)'s [Zero To Production In Rust](https://www.zero2prod.com/), and I'm looking forward to implementing my `grusterylist` CLI app as an async web app with proper logging and testing.    
 
 [`krust`](https://github.com/suchapalaver/krust) and [`grusterylist`](https://github.com/suchapalaver/grusterylist) are my first two programs in Rust that I'm continuing to work on.     
 
