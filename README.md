@@ -1,19 +1,15 @@
 # Joseph Livesey
 ## About me    
 
-I recently completed my PhD in anthropology, a culmination of years learning about and living in China, Russia, and Ukraine. Now, while continuing to be inspired by those experiences and that training, I want to pursue a career allowing me to continue to learn programming languages.    
+I completed my AM at Harvard in 2011 in Russian, East European, and Central Asian Studies, and then my PhD in Sociocultural Anthropology in 2021, a culmination of twenty years learning about and living in China, Russia, and Ukraine, as well as many other travels in East Asia and the Former Soviet Union. Now, while continuing to be inspired by those experiences and that training, I am growing into a career allowing me to continue to learn programming languages, including Rust and TypeScript, frameworks, like GraphQl, and the many domains applicable to the work on provenance we do at [BTP](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjv0N21ibb8AhXgElkFHTSGB_gQFnoECAkQAQ&url=https%3A%2F%2Fbtp.works%2Fchronicle&usg=AOvVaw2xlEdks9bxo7xQhhw8OOKj) with [Chronicle](https://medium.com/btpworks/introducing-chronicle-blockchain-backed-provenance-2ee352f718fa).    
 
 ### programming    
 
 When I finished my PhD I wanted to try something different. A friend suggested trying using Linux and learning a programming language or two. I'd never thought how similar studying languages, like Chinese and Ukrainian, could be to learning programming languages like Python and Rust. I found the same kind of passion again that got me started with Chinese and Russian twenty years ago. Now I just want to keep learning.    
 
-### git    
+### `git`  
 
-I only read CBEAMS's ["How to Write a Git Commit Message"](https://cbea.ms/git-commit/) for the first time around Feb/March 2022!   
-
-Lately, in my [`newsletter`](https://github.com/suchapalaver/newsletter) repository I've been meticulously working through [Luca Palmieri](https://github.com/LukeMathWalker)'s [Zero To Production In Rust](https://www.zero2prod.com/), and I'm looking forward to implementing my `grusterylist` CLI app as an async web app with proper logging and testing.    
-
-[`krust`](https://github.com/suchapalaver/krust) and [`grusterylist`](https://github.com/suchapalaver/grusterylist) are my first two programs in Rust that I'm continuing to work on.     
+[`krust`](https://github.com/suchapalaver/krust) and [`grusterylist`](https://github.com/suchapalaver/grusterylist) are my first two programs in Rust that I'm continuing to work on, applying what I learn at work as I go.
 
 My bioinformatician friend Erik who mentored me into starting to code suggested learning to write a k-mer counter as a good first project to learn Python. [`fastas2kmers`](https://github.com/suchapalaver/fastas2kmers) is that very rough first attempt. [`krust`](https://github.com/suchapalaver/krust) was the first program I wrote in Rust, using [`rayon`](https://crates.io/crates/rayon) to count k-mers in parallel.   
 
