@@ -1,7 +1,11 @@
 # Joseph Livesey
 ## About me    
 
-I completed my AM at Harvard in 2011 in Russian, East European, and Central Asian Studies, and then my PhD in Sociocultural Anthropology in 2021, a culmination of twenty years learning about and living in China, Russia, and Ukraine, as well as many other travels in East Asia and the Former Soviet Union. Now, while continuing to be inspired by those experiences and that training, I am growing into a career allowing me to continue to learn programming languages, including Rust and TypeScript, frameworks, like GraphQl, and the many domains applicable to the work on provenance we do at [BTP](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjv0N21ibb8AhXgElkFHTSGB_gQFnoECAkQAQ&url=https%3A%2F%2Fbtp.works%2Fchronicle&usg=AOvVaw2xlEdks9bxo7xQhhw8OOKj) with [Chronicle](https://medium.com/btpworks/introducing-chronicle-blockchain-backed-provenance-2ee352f718fa).    
+I am a backend software engineer at [BTP](https://btp.works/) working on [Chronicle](github.com/btpworks/chronicle), an open-source, blockchain-backed, platform for recording [provenance information](https://www.w3.org/TR/prov-o/). 
+
+I completed my PhD in Sociocultural Anthropology at New York University in 2021, a culmination of twenty years learning about and living in China, Russia, and Ukraine, including graduating from the AM program in Russian, East European, and Central Asian Studies at Harvard University in 2011, as well as many other travels in East Asia and the Former Soviet Union. 
+
+I continue to be inspired by those experiences and that training while growing into a career allowing me to continue to learn programming languages, including Rust and TypeScript, frameworks, like GraphQl, DevOps tools like Docker and Kubernetes, and the many commercial and social domains applicable to the work on provenance we do at [BTP](https://btp.works/) with [Chronicle](https://medium.com/btpworks/introducing-chronicle-blockchain-backed-provenance-2ee352f718fa).    
 
 ### programming    
 
@@ -13,7 +17,7 @@ When I finished my PhD I wanted to try something different. A friend suggested t
 
 My bioinformatician friend Erik who mentored me into starting to code suggested learning to write a k-mer counter as a good first project to learn Python. [`fastas2kmers`](https://github.com/suchapalaver/fastas2kmers) is that very rough first attempt. [`krust`](https://github.com/suchapalaver/krust) was the first program I wrote in Rust, using [`rayon`](https://crates.io/crates/rayon) to count k-mers in parallel.   
 
-My wife and I use [`grusterylist`](https://github.com/suchapalaver/grusterylist) every week to save time on putting our shopping lists together. It seemed like a boring idea at first but it gave me the chance to create my own data types, figure out how to use the Rust crates [`clap`](https://crates.io/crates/clap) and [`serde`](https://crates.io/crates/serde) for the first time, and have a go at customized error handling. I don't think there are many beginner hobby project examples in Rust out there.
+My wife and I use [`grusterylist`](https://github.com/suchapalaver/grusterylist) every week to save time on putting our shopping lists together. It seemed like a boring idea at first but it gave me the chance to create my own data types, figure out how to use the Rust crates [`clap`](https://crates.io/crates/clap) and [`serde`](https://crates.io/crates/serde) for the first time, and have a go at customized error handling.
 
 ### some translating
 
