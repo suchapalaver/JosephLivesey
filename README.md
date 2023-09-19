@@ -13,7 +13,7 @@ When I finished my PhD I wanted to try something different. A friend suggested t
 
 ### `git`  
 
-[`krust`](https://github.com/suchapalaver/krust) and [`grusterylist`](https://github.com/suchapalaver/grusterylist) are my first two programs in Rust that I'm continuing to work on, applying what I learn at work as I go.
+[`krust`](https://github.com/suchapalaver/krust) and [`gust`](https://github.com/suchapalaver/gust) are my first two programs in Rust that I'm continuing to work on, applying what I learn at work as I go.
 
 My bioinformatician friend Erik who mentored me into starting to code suggested learning to write a k-mer counter as a good first project to learn Python. [`fastas2kmers`](https://github.com/suchapalaver/fastas2kmers) is that very rough first attempt. [`krust`](https://github.com/suchapalaver/krust) was the first program I wrote in Rust, using [`rayon`](https://crates.io/crates/rayon) to count k-mers in parallel.   
 
