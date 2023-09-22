@@ -1,7 +1,7 @@
 # Joseph Livesey
 ## About me    
 
-Before the company was forced to lay off all of its US employees in August 2023 I was a backend software engineer at [BTP](https://btp.works/) working on [Chronicle](github.com/btpworks/chronicle), an open-source, blockchain-backed, platform for recording [provenance information](https://www.w3.org/TR/prov-o/). 
+Before the company was forced to lay off all of its US employees in August 2023 I was a backend software engineer at [BTP](https://btp.works/) working on [Chronicle](https://github.com/btpworks/chronicle/), an open-source, blockchain-backed, platform for recording [provenance information](https://www.w3.org/TR/prov-o/). 
 
 I completed my PhD in Sociocultural Anthropology at New York University in 2021, a culmination of twenty years learning about and living in China, Russia, and Ukraine, including graduating from the AM program in Russian, East European, and Central Asian Studies at Harvard University in 2011, as well as many other travels in East Asia and the Former Soviet Union. 
 
