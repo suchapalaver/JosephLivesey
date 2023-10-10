@@ -1,9 +1,9 @@
 # Joseph Livesey
 ## About me    
 
-Before the company was forced to lay off all of its US employees in August 2023 I was a backend software engineer at [BTP](https://btp.works/) working on [Chronicle](https://github.com/btpworks/chronicle/), an open-source, blockchain-backed, platform for recording [provenance information](https://www.w3.org/TR/prov-o/). 
+Before the company was forced to lay off all of its US employees in August 2023 I was a backend software engineer at [BTP](https://btp.works/) working on [Chronicle](https://github.com/btpworks/chronicle/), an open-source, blockchain-backed, platform for recording [provenance information](https://www.w3.org/TR/prov-o/) written in Rust. 
 
-I completed my PhD in Sociocultural Anthropology at New York University in 2021, a culmination of twenty years learning about and living in China, Russia, and Ukraine, including graduating from the AM program in Russian, East European, and Central Asian Studies at Harvard University in 2011, as well as many other travels in East Asia and the Former Soviet Union. 
+I completed my PhD in Sociocultural Anthropology at New York University in 2021, a culmination of twenty years learning about and living in China, Russia, and Ukraine, including graduating from the [AM program in Russian, East European, and Central Asian Studies at Harvard University](https://daviscenter.fas.harvard.edu/academic-programs/graduate-studies/reeca-masters-program) in 2011, as well as many other travels in East Asia and the Former Soviet Union. 
 
 I continue to be inspired by those experiences and that training while growing into a career allowing me to continue to learn programming languages, including Rust and TypeScript, frameworks, like GraphQL, DevOps tools like Docker, Helm, and Kubernetes, and the many commercial and social domains applicable to my professional work.    
 
@@ -13,11 +13,11 @@ When I finished my PhD I wanted to try something different. A friend suggested t
 
 ### `git`  
 
-[`krust`](https://github.com/suchapalaver/krust) and [`gust`](https://github.com/suchapalaver/gust) are my first two programs in Rust that I'm continuing to work on, applying what I learn at work as I go.
+[`krust`](https://github.com/suchapalaver/krust) and [`gust`](https://github.com/suchapalaver/gust) are my first two programs in Rust that I'm continuing to work on, applying what I learn through my professional work as I go.
 
-My bioinformatician friend Erik who mentored me into starting to code suggested learning to write a k-mer counter as a good first project to learn Python. [`fastas2kmers`](https://github.com/suchapalaver/fastas2kmers) is that very rough first attempt. [`krust`](https://github.com/suchapalaver/krust) was the first program I wrote in Rust, using [`rayon`](https://crates.io/crates/rayon) to count k-mers in parallel.   
+My bioinformatician friend Erik who mentored me into starting to code suggested learning to write a [k-mer](https://en.wikipedia.org/wiki/K-mer) counter as a good first project to learn Python. [`fastas2kmers`](https://github.com/suchapalaver/fastas2kmers) is that very rough first attempt. [`krust`](https://github.com/suchapalaver/krust) was the first program I wrote in Rust, using [`rayon`](https://crates.io/crates/rayon) to count k-mers in parallel.   
 
-My wife and I use [`grusterylist`](https://github.com/suchapalaver/grusterylist) every week to save time on putting our shopping lists together. It seemed like a boring idea at first but it gave me the chance to create my own data types, figure out how to use the Rust crates [`clap`](https://crates.io/crates/clap) and [`serde`](https://crates.io/crates/serde) for the first time, and have a go at customized error handling.
+My wife and I use [`gust`](https://github.com/suchapalaver/gust) every week to save time on putting our shopping lists together. It seemed like a boring idea at first but it gave me the chance to create my own data types, figure out how to use the Rust crates [`clap`](https://crates.io/crates/clap) and [`serde`](https://crates.io/crates/serde) for the first time, and have a go at customized error handling (I've since learned things are simpler and more ergonomic using the [`thiserror`](https://crates.io/crates/thiserror) crate).
 
 ### some translating
 
