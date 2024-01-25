@@ -1,7 +1,7 @@
 # Joseph Livesey
 ## About me    
 
-Before the company was forced to lay off all of its US employees in August 2023 I was a backend software engineer at [BTP](https://btp.works/) working on [Chronicle](https://github.com/btpworks/chronicle/), an open-source, blockchain-backed, platform for recording [provenance information](https://www.w3.org/TR/prov-o/) written in Rust. 
+Before the company was forced to lay off all of its US employees in August 2023 I was a backend software engineer at [BTP](https://btp.works/) working on [Chronicle](https://github.com/btpworks/chronicle/), an open-source, blockchain-backed, platform for recording [provenance information](https://www.w3.org/TR/prov-o/) written in Rust. Since October I've continued to work in Rust on the backend and with AWS at [BALANCED Media|Technology](https://www.balancedmediatechnology.com/) ([github.com/balanced-livc](https://github.com/balanced-livc/)).
 
 I completed my PhD in Sociocultural Anthropology at New York University in 2021, a culmination of twenty years learning about and living in China, Russia, and Ukraine, including graduating from the [AM program in Russian, East European, and Central Asian Studies at Harvard University](https://daviscenter.fas.harvard.edu/academic-programs/graduate-studies/reeca-masters-program) in 2011, as well as many other travels in East Asia and the Former Soviet Union. 
 
